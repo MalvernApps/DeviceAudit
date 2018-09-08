@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Device Audit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="image">Image thumbnail</string>
+    <string name="title_activity_apk_list">App Detail</string>
+    <string name="apkname">Application Name:</string>
+    <string name="uidvalue">UID Value:</string>
+    <string name="package_name">Package Name:</string>
+    <string name="version">Version:</string>
+    <string name="features">Required Features:</string>
+    <string name="permissions">Required Permissions:</string>
+    <string name="activities">Activities:</string>
+    <string name="req_version">Target SDK Version:</string>
+    <string name="path_info">Path Info:</string>
+    <string name="appsize">Physical Size</string>
+    <string name="installed">Installed:</string>
+    <string name="modified">Last Modified:</string>
+    <string name="services">Services:</string>
+    <string name="action_is_system_package">System Packages</string>
+    <string name="action_is_installed_package">Installed Packages</string>
+    <string name="action_see_animation">See Animation</string>
+    <string name="title_activity_animated_gif">Splash Screen</string>
+    <string name="action_add_to_clipboard">Copy to Clipboard</string>
+
+</resources>
